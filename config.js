@@ -47,9 +47,9 @@ global.psaweria = 'https://saweria.com/MaxxyBotz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
+global.nomorown = '6287824899711'
 global.namebot = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛'
-global.nameown = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.nameown = 'Leo'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true],
-  ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
+  ['6287824899711', 'Leo (developer)', true],
+  ['13155104810', 'Me (Bot)', true],
+  ['19292746408', 'Moderator (bot)', true],
+  ['6283159827293', 'Moderator (human)', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -190,7 +190,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '𝑴𝒂𝒂𝒙𝒚 𝑩𝒐𝒕𝒛'
-global.stickauth = `By ©𝙆𝘼𝙃𝙁𝙄-𝙓𝘿`
+global.stickauth = `By ©Leo`
 
 global.multiplier = 38 // The higher, The harder levelup
 
